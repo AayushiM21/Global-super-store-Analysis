@@ -1,7 +1,7 @@
 # Global-super-store-Analysis
 It is a comprehensive Sales Analysis Dashboard using Power BI to visualize and analyze multi-year sales performance.
 ### Overview
-This project involves analyzing and visualizing the sales data of a global superstore using Power BI. The goal is to gain insights into key business metrics such as sales, profit, and customer demographics. By using interactive visualizations and slicers, this report allows for deep data exploration and decision-making. The dataset used in this project contains global sales data across multiple dimensions such as region, product categories, and customer segments.
+This project involves analyzing and visualizing the sales data of a global superstore using Power BI. The goal is to gain insights into key business metrics such as sales, profit, and customer demographics. By using interactive visualizations and slicers, this report allows for deep data exploration and decision-making. The dataset used in this project contains global sales data across multiple dimensions such as region, product categories, and customer segments.It is interactive as all slicers are present from 2011-2014 years.
 
 ### Dataset
 
